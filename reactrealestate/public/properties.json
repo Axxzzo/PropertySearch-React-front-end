@@ -1,0 +1,178 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+            "shortdescription":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station",
+			"longdescription":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+            "postcode":"BR5",
+            "picture": ["reactrealestate/src/assets/Images/Prop1/prop1_img1.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/prop1-img2.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/prop1_img3.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/prop1_img4.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/prop1_img5.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/Prop1-img6.jpeg",
+                        "reactrealestate/src/assets/Images/Prop1/prop1_img7.jpeg"
+            ],
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            }
+        },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+            "shortdescription":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat",
+			"longdescription":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee...",
+			"location":"Crofton Road Orpington BR6",
+            "postcode":"BR6",
+			"picture":["reactrealestate/src/assets/Images/prop2/Prop2_Img1.jpeg",
+                        "reactrealestate/src/assets/Images/prop2/Prop2_Img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop2/Prop2_Img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop2/Prop2_Img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop2/Prop2_Img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop2/Prop2_Img6.jpeg"
+        ],
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop3",
+            "type":"House",
+            "bedrooms":2,
+            "price":500000,
+            "tenure":"leasehold",
+            "shortdescription":"A well presented two bedroom semi-detached house situated in a popular location close to local shops, schools and bus routes",
+            "longdescription":"A well presented two bedroom semi-detached house situated in a popular location close to local shops, schools and bus routes. The property comprises; two receptions, fitted kitchen, two double bedrooms and a family bathroom. Additional features include double glazing, gas central heating, off street parking and a well presented interior...",
+            "location":"St. Mary Cray, Orpington BR5",
+            "postcode":"BR5",
+            "picture":[
+                        "reactrealestate/src/assets/Images/prop3/prop3_img1.jpeg",
+                        "reactrealestate/src/assets/images/prop3/prop3_img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop3/prop3_img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop3/prop3_img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop3/prop3_img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop3/prop3_img6.jpeg",
+                        "reactrealestate/src/assets/Images/prop3/prop3_img7.jpeg"
+            ],
+            "url":"properties/prop3.html",
+            "added": {
+                "month":"August",
+                "day":22,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop4",
+            "type":"Flat",
+            "bedrooms":3,
+            "price":950000,
+            "tenure":"Freehold",
+            "shortdescription":"A stunning three bedroom penthouse apartment situated in a popular location close to local shops, schools and bus routes",
+            "longdescription":"A stunning three bedroom penthouse apartment situated in a popular location close to local",
+            "location":"Orpington BR6",
+            "postcode":"BR6",
+            "picture":[
+                        "reactrealestate/src/assets/Images/prop4/prop4_img1.jpeg",
+                        "reactrealestate/src/assets/images/prop4/prop4_img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop4/prop4_img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop4/prop4_img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop4/prop4_img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop4/prop4_img6.jpeg"
+            ],
+            "url":"properties/prop4.html",
+            "added": {
+                "month":"July",
+                "day":30,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop5",
+            "type":"House",
+            "bedrooms":4,
+            "price":800000,
+            "tenure":"leasehold",
+            "shortdescription":"A well presented four bedroom detached house situated in a popular location close to local shops, schools and bus routes",
+            "longdescription":"A well presented four bedroom detached house situated in a popular location close to local shops, schools and bus routes. The property comprises; two receptions, fitted kitchen, four double bedrooms and a family bathroom. Additional features include double glazing, gas central heating, off street parking and a well presented interior...",
+            "location":"Orpington BR6",
+            "postcode":"BR6",
+            "picture":[
+                        "reactrealestate/src/assets/Images/prop5/prop5_img1.jpeg",
+                        "reactrealestate/src/assets/images/prop5/prop5_img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop5/prop5_img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop5/prop5_img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop5/prop5_img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop5/prop5_img6.jpeg"
+            ],
+            "url":"properties/prop5.html",
+            "added": {
+                "month":"June",
+                "day":18,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop6",
+            "type":"Flat",
+            "bedrooms":2,
+            "price":1000000,
+            "tenure":"Freehold",
+            "shortdescription":"A well presented two bedroom flat situated in a popular location close to local shops, schools and bus routes",
+            "longdescription":"A well presented two bedroom flat situated in a popular location close to local shops, schools and bus routes. The property comprises; two receptions, fitted kitchen, two double bedrooms and a family bathroom. Additional features include double glazing, gas central heating, off street parking and a well presented interior...",
+            "location":"Orpington BR6",
+            "postcode":"BR6",
+            "picture":[ 
+                        "reactrealestate/src/assets/Images/prop6/prop6_img1.jpeg",
+                        "reactrealestate/src/assets/images/prop6/prop6_img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop6/prop6_img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop6/prop6_img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop6/prop6_img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop6/prop6_img6.jpeg"
+            ],
+            "url":"properties/prop6.html",
+            "added": {
+                "month":"May",
+                "day":10,
+                "year":2022
+            }
+        },
+        {
+            "id":"prop7",
+            "type":"House",
+            "bedrooms":3,
+            "price":820000,
+            "tenure":"leasehold",
+            "shortdescription":"A well presented three bedroom house situated in a popular location close to local shops, schools and bus routes",
+            "longdescription":"A well presented three bedroom house situated in a popular location close to local shops, schools and bus routes. The property comprises; two receptions, fitted kitchen, three double bedrooms and a family bathroom. Additional features include double glazing, gas central heating, off street parking and a well presented interior...",
+            "location":"Orpington BR6",
+            "postcode":"BR6",
+            "picture":[
+                        "reactrealestate/src/assets/Images/prop7/prop7-img1.jpeg",
+                        "reactrealestate/src/assets/images/prop7/prop7-img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7-img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7-img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7-img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7-img6.jpeg"
+            ],
+            "url":"properties/prop7.html",
+            "added": {
+                "month":"April",
+                "day":2,
+                "year":2022
+            }
+        }
+]}
