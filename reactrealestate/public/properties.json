@@ -161,12 +161,12 @@
             "location":"Orpington BR6",
             "postcode":"BR6",
             "picture":[
-                        "reactrealestate/src/assets/Images/prop7/prop7-img1.jpeg",
-                        "reactrealestate/src/assets/images/prop7/prop7-img2.jpeg",
-                        "reactrealestate/src/assets/Images/prop7/prop7-img3.jpeg",
-                        "reactrealestate/src/assets/Images/prop7/prop7-img4.jpeg",
-                        "reactrealestate/src/assets/Images/prop7/prop7-img5.jpeg",
-                        "reactrealestate/src/assets/Images/prop7/prop7-img6.jpeg"
+                        "reactrealestate/src/assets/Images/prop7/prop7_img1.jpeg",
+                        "reactrealestate/src/assets/images/prop7/prop7_img2.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7_img3.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7_img4.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7_img5.jpeg",
+                        "reactrealestate/src/assets/Images/prop7/prop7_img6.jpeg"
             ],
             "url":"properties/prop7.html",
             "added": {
